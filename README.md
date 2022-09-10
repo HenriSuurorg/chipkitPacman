@@ -12,3 +12,7 @@ The graphics of the game are handled using a 32 row x 128 column coordinate syst
 
 \
 ![c48c7fe9-0f9d-45fc-bec7-0697457f8bf7](https://user-images.githubusercontent.com/56604980/189481578-66be1abc-9264-4e82-93ab-ac32b3ddb5cc.jpg)
+
+## Acknowledgements
+* KTH Royal Institute of Technology - Provided ChipKIT Uno32 board & Basic I/O shield
+* Aditya Gupta - Shared graphical knowledge
